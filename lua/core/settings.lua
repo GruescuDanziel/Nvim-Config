@@ -1,5 +1,7 @@
 vim.g.mapleader = ' '
 
+vim.cmd [[colorscheme everforest]]
+
 vim.opt.backspace = '2'
 vim.opt.showcmd = true
 vim.opt.laststatus = 2
